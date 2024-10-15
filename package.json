@@ -9,7 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "hono": "4.6.4",
+    "hono": "4.6.5",
     "ioredis": "^5.4.1"
   }
 }
